@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80e49b7bc4bc44e096c17e24f61e83ed, type: 3}
+  m_Name: RedCoin
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7504272026428987245, guid: 4983d1334fcba424b8f14112c0bce7a1, type: 3}
+  clicksToDestroy: 1
+  lifespan: 5
+  givePoints: 0
+  losePoints: 0
+  threeCoin: 0
+  fixedExtraTime: 0
+  per20PointExtraTime: 0
+  duplicateMouseSpeedTime: 0
+  scrambleAll: 0
+  blockCapabilitiesTime: 4
+  from1RandomPoints: 0
+  clockSpeed: 1
+  duplicateGivenPoints: 0
